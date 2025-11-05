@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://drw0tsk056del"]
+
+[node name="Node2D" type="Node2D"]
+position = Vector2(-4, -1)
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+deterministic = true
